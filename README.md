@@ -6,9 +6,9 @@ Automatically respond to a bot with the bot's trigger.
 
 I wanna see how long we can make a comment chain before the bot just gives up or reddit does something to the account.
 
-**Note: Please only run this on a private subreddit so that other people aren't disrupted by the constant message stream.**
+**Note: Please only run this on a brand new and empty subreddit so that other people aren't disrupted by the constant message stream.**
 
-## Example Scenario: AutoModerator on a private subreddit
+## Example Scenario: AutoModerator on a brand new and empty subreddit
 
 Let's assume we want AutoModerator to respond with the [navy seal copypasta](https://knowyourmeme.com/memes/navy-seal-copypasta).
 We would like to make it so that the trigger word is the word "seal". As a reminder, here's the copypasta text:
